@@ -14,28 +14,28 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto48.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto48.jpeg",
+                original: "..//assets/images/persone/foto48.jpeg",
+                thumbnail: "..//assets/images/persone/foto48.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto36.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto36.jpeg",
+                original: "..//assets/images/persone/foto36.jpeg",
+                thumbnail: "..//assets/images/persone/foto36.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto8.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto8.jpeg",
+                original: "..//assets/images/persone/foto8.jpeg",
+                thumbnail: "..//assets/images/persone/foto8.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto37.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto37.jpeg",
+                original: "..//assets/images/persone/foto37.jpeg",
+                thumbnail: "..//assets/images/persone/foto37.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto41.jpg",
-                thumbnail: "../../src/assets/images/persone/foto41.jpg",
+                original: "..//assets/images/persone/foto41.jpg",
+                thumbnail: "..//assets/images/persone/foto41.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto44.jpg",
-                thumbnail: "../../src/assets/images/persone/foto44.jpg",
+                original: "..//assets/images/persone/foto44.jpg",
+                thumbnail: "..//assets/images/persone/foto44.jpg",
             },
         ]
     },
@@ -53,24 +53,24 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto3.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto3.jpeg",
+                original: "..//assets/images/persone/foto3.jpeg",
+                thumbnail: "..//assets/images/persone/foto3.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto4.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto4.jpeg",
+                original: "..//assets/images/persone/foto4.jpeg",
+                thumbnail: "..//assets/images/persone/foto4.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto5.png",
-                thumbnail: "../../src/assets/images/persone/foto5.png",
+                original: "..//assets/images/persone/foto5.png",
+                thumbnail: "..//assets/images/persone/foto5.png",
             },
             {
-                original: "../../src/assets/images/persone/foto11.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto11.jpeg",
+                original: "..//assets/images/persone/foto11.jpeg",
+                thumbnail: "..//assets/images/persone/foto11.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto17.jpg",
-                thumbnail: "../../src/assets/images/persone/foto17.jpg",
+                original: "..//assets/images/persone/foto17.jpg",
+                thumbnail: "..//assets/images/persone/foto17.jpg",
             }
         ]
     },
@@ -87,16 +87,16 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto15.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto15.jpeg",
+                original: "..//assets/images/persone/foto15.jpeg",
+                thumbnail: "..//assets/images/persone/foto15.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto53.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto53.jpeg",
+                original: "..//assets/images/persone/foto53.jpeg",
+                thumbnail: "..//assets/images/persone/foto53.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto54.jpg",
-                thumbnail: "../../src/assets/images/persone/foto54.jpg",
+                original: "..//assets/images/persone/foto54.jpg",
+                thumbnail: "..//assets/images/persone/foto54.jpg",
             }
         ]
     },
@@ -113,16 +113,16 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto29.jpg",
-                thumbnail: "../../src/assets/images/persone/foto29.jpg",
+                original: "..//assets/images/persone/foto29.jpg",
+                thumbnail: "..//assets/images/persone/foto29.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto35.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto35.jpeg",
+                original: "..//assets/images/persone/foto35.jpeg",
+                thumbnail: "..//assets/images/persone/foto35.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto15.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto15.jpeg",
+                original: "..//assets/images/persone/foto15.jpeg",
+                thumbnail: "..//assets/images/persone/foto15.jpeg",
             }
         ]
     },
@@ -138,20 +138,20 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto14.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto14.jpeg",
+                original: "..//assets/images/persone/foto14.jpeg",
+                thumbnail: "..//assets/images/persone/foto14.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto32.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto32.jpeg",
+                original: "..//assets/images/persone/foto32.jpeg",
+                thumbnail: "..//assets/images/persone/foto32.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto34.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto34.jpeg",
+                original: "..//assets/images/persone/foto34.jpeg",
+                thumbnail: "..//assets/images/persone/foto34.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto50.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto50.jpeg",
+                original: "..//assets/images/persone/foto50.jpeg",
+                thumbnail: "..//assets/images/persone/foto50.jpeg",
             }
         ]
     },
@@ -167,32 +167,32 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto6.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto6.jpeg",
+                original: "..//assets/images/persone/foto6.jpeg",
+                thumbnail: "..//assets/images/persone/foto6.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto7.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto7.jpeg",
+                original: "..//assets/images/persone/foto7.jpeg",
+                thumbnail: "..//assets/images/persone/foto7.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto9.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto9.jpeg",
+                original: "..//assets/images/persone/foto9.jpeg",
+                thumbnail: "..//assets/images/persone/foto9.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto10.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto10.jpeg",
+                original: "..//assets/images/persone/foto10.jpeg",
+                thumbnail: "..//assets/images/persone/foto10.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto36.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto36.jpeg",
+                original: "..//assets/images/persone/foto36.jpeg",
+                thumbnail: "..//assets/images/persone/foto36.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto43.jpg",
-                thumbnail: "../../src/assets/images/persone/foto43.jpg",
+                original: "..//assets/images/persone/foto43.jpg",
+                thumbnail: "..//assets/images/persone/foto43.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto49.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto49.jpeg",
+                original: "..//assets/images/persone/foto49.jpeg",
+                thumbnail: "..//assets/images/persone/foto49.jpeg",
             }
         ]
     },
@@ -209,20 +209,20 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto16.jpg",
-                thumbnail: "../../src/assets/images/persone/foto16.jpg",
+                original: "..//assets/images/persone/foto16.jpg",
+                thumbnail: "..//assets/images/persone/foto16.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto18.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto18.jpeg",
+                original: "..//assets/images/persone/foto18.jpeg",
+                thumbnail: "..//assets/images/persone/foto18.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto39.jpg",
-                thumbnail: "../../src/assets/images/persone/foto39.jpg",
+                original: "..//assets/images/persone/foto39.jpg",
+                thumbnail: "..//assets/images/persone/foto39.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto12.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto12.jpeg",
+                original: "..//assets/images/persone/foto12.jpeg",
+                thumbnail: "..//assets/images/persone/foto12.jpeg",
             }
         ]
     },
@@ -240,12 +240,12 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto13.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto13.jpeg",
+                original: "..//assets/images/persone/foto13.jpeg",
+                thumbnail: "..//assets/images/persone/foto13.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto12.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto12.jpeg",
+                original: "..//assets/images/persone/foto12.jpeg",
+                thumbnail: "..//assets/images/persone/foto12.jpeg",
             }
         ]
     },
@@ -263,24 +263,24 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto33.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto33.jpeg",
+                original: "..//assets/images/persone/foto33.jpeg",
+                thumbnail: "..//assets/images/persone/foto33.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto31.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto31.jpeg",
+                original: "..//assets/images/persone/foto31.jpeg",
+                thumbnail: "..//assets/images/persone/foto31.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto21.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto21.jpeg",
+                original: "..//assets/images/persone/foto21.jpeg",
+                thumbnail: "..//assets/images/persone/foto21.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto12.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto12.jpeg",
+                original: "..//assets/images/persone/foto12.jpeg",
+                thumbnail: "..//assets/images/persone/foto12.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto46.jpg",
-                thumbnail: "../../src/assets/images/persone/foto46.jpg",
+                original: "..//assets/images/persone/foto46.jpg",
+                thumbnail: "..//assets/images/persone/foto46.jpg",
             }
         ]
     },
@@ -296,16 +296,16 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto1.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto1.jpeg",
+                original: "..//assets/images/persone/foto1.jpeg",
+                thumbnail: "..//assets/images/persone/foto1.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto25.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto25.jpeg",
+                original: "..//assets/images/persone/foto25.jpeg",
+                thumbnail: "..//assets/images/persone/foto25.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto12.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto12.jpeg",
+                original: "..//assets/images/persone/foto12.jpeg",
+                thumbnail: "..//assets/images/persone/foto12.jpeg",
             }
         ]
     },
@@ -321,16 +321,16 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto38.jpg",
-                thumbnail: "../../src/assets/images/persone/foto38.jpg",
+                original: "..//assets/images/persone/foto38.jpg",
+                thumbnail: "..//assets/images/persone/foto38.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto45.jpg",
-                thumbnail: "../../src/assets/images/persone/foto45.jpg",
+                original: "..//assets/images/persone/foto45.jpg",
+                thumbnail: "..//assets/images/persone/foto45.jpg",
             },
             {
-                original: "../../src/assets/images/persone/foto46.jpg",
-                thumbnail: "../../src/assets/images/persone/foto46.jpg",
+                original: "..//assets/images/persone/foto46.jpg",
+                thumbnail: "..//assets/images/persone/foto46.jpg",
             }
         ]
     },
@@ -345,12 +345,12 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto26.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto26.jpeg",
+                original: "..//assets/images/persone/foto26.jpeg",
+                thumbnail: "..//assets/images/persone/foto26.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto47.png",
-                thumbnail: "../../src/assets/images/persone/foto47.png",
+                original: "..//assets/images/persone/foto47.png",
+                thumbnail: "..//assets/images/persone/foto47.png",
             }
         ]
     },
@@ -371,16 +371,16 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto51.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto51.jpeg",
+                original: "..//assets/images/persone/foto51.jpeg",
+                thumbnail: "..//assets/images/persone/foto51.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto28.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto28.jpeg",
+                original: "..//assets/images/persone/foto28.jpeg",
+                thumbnail: "..//assets/images/persone/foto28.jpeg",
             },
             {
-                original: "../../src/assets/images/persone/foto52.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto52.jpeg",
+                original: "..//assets/images/persone/foto52.jpeg",
+                thumbnail: "..//assets/images/persone/foto52.jpeg",
             }
         ]
     },
@@ -396,8 +396,8 @@ export const peopleData = [
         ],
         'images': [
             {
-                original: "../../src/assets/images/persone/foto2.jpeg",
-                thumbnail: "../../src/assets/images/persone/foto2.jpeg",
+                original: "..//assets/images/persone/foto2.jpeg",
+                thumbnail: "..//assets/images/persone/foto2.jpeg",
             }
         ]
     },

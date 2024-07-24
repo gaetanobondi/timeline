@@ -6,15 +6,15 @@ const Home = () => {
     <div className={styles.container}>
         <div className={styles.aboutMe}>
             <div className={styles.imageContainer}>
-              <img src="/src/assets/images/gaetano.jpg" alt="foto di Gaetano Bondì" />
+              <img src="/assets/images/gaetano.jpg" alt="foto di Gaetano Bondì" />
             </div>
             <p className='description'>
               Ciao, mi chiamo Gaetano Bondì e mi sono appena laureato in Ingegneria dell'Innovazione per le Imprese Digitali all'Università degli Studi di Palermo e questa è la mia storia.
             </p>
         </div>
         <div className={styles.socialButtons}>
-          <Link to="https://www.instagram.com/gaetano.bondi/" target='_blank'><img src='../src/assets/instagram-logo.png' alt='logo Instagram' /></Link>
-          <Link to="https://www.tiktok.com/@gaetano.bondi" target='_blank'><img src='../src/assets/tiktok-logo.png' alt='logo TikTok' /></Link>
+          <Link to="https://www.instagram.com/gaetano.bondi/" target='_blank'><img src='/assets/instagram-logo.png' alt='logo Instagram' /></Link>
+          <Link to="https://www.tiktok.com/@gaetano.bondi" target='_blank'><img src='/assets/tiktok-logo.png' alt='logo TikTok' /></Link>
         </div>
         <Link to="/percorso" className='button-35' style={{ marginBottom: '20px' }}>Il mio percorso di laurea</Link>
         <Link to="/persone" className='button-35'>Chi mi ha accompagnato</Link>

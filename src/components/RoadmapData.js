@@ -6,7 +6,7 @@ export const roadmapData = [
       '30/04/2019',
       'Ho iniziato questo percorso con il test di ingresso per l’Università degli Studi di Palermo, per il corso di Ingegneria Gestionale. Senza troppe complicazioni ho superato il test.',
     ],
-    image: '../src/assets/images/percorso/foto1.jpg',
+    image: '/assets/images/percorso/foto1.jpg',
     cfu: 0
   },
   {
@@ -16,7 +16,7 @@ export const roadmapData = [
       '29 Settembre 2019',
       'Caro Gaetano del futuro... domani 30 settembre 2019 hai iniziato l’università, la sera prima hai un po’ di timore sull’aver fatto la scelta giusta per la tua carriera futura e sei un po’ stanco, stai per finire il libro “la scelta” che ti è particolarmente piaciuto e ti sei appena fidanzato con ********. Con chi sarai adesso? A 29 anni ti immagino in una casa tua, magari grande e lussuosa, con una persona con cui stai convivendo che ami tanto. Dove ti trovi? Sei ancora in Sicilia o sei andato via?',
     ],
-    image: '../src/assets/images/percorso/foto3.jpg',
+    image: '/assets/images/percorso/foto3.jpg',
     cfu: 0
   },
   {
@@ -35,7 +35,7 @@ export const roadmapData = [
       '6 Marzo 2020',
       'Anche oggi mi ritrovo a lavorare su Opinion (o come si chiamerà il sito che ho intenzione di pubblicare). Non so nemmeno se ci riuscirò ma il solo pensiero di riuscirci mi spinge ad andare avanti nello sviluppo. Ho molti dubbi sulla riuscita del progetto principalmente legati al fatto che non so se sarò in grado di scrivere tutto il codice necessario a una prima pubblicazione né successivamente. Credo molto in questo sito e penso che con un pizzico di fortuna potrebbe diventare un successo, tuttavia, sono in una situazione di stallo all’università. Lunedì inizieranno le lezioni telematiche a causa del nuovo Corona Virus ed io ho passato solo un esame su quattro. Non so se convenga continuare a buttare il mio tempo qui o sarebbe meglio studiare di più e forse lo saprò soltanto quando sarà troppo tardi.',
     ],
-    image: '../src/assets/images/percorso/foto9.jpg',
+    image: '/assets/images/percorso/foto9.jpg',
     cfu: 30
   },
   {
@@ -54,7 +54,7 @@ export const roadmapData = [
       '3 Gennaio 2021',
       'E’ iniziato il 2021. Come ogni anno faccio buoni propositi che non rispetterò, ma sento che quest’anno è diverso, almeno spero. Questi giorni di transizione tra la fine di un anno e l’inizio di un altro sono sempre strani, pieni di aspettative. E’ questo forse il mio problema più grande, non riuscire ad essere costante nel tempo. Ho sempre tante, troppe idee in testa che non realizzo mai e il pensare di non riuscire a realizzare qualcosa che desidero mi rende frustrato. Devo smettere di procrastinare. Devo prendere una via e perseguire su quella, quest’anno compirò 21 anni. Mi spaventa il fatto che sto crescendo così velocemente, sento che mi sto perdendo qualcosa. Ho sempre paura di deludere le persone che mi circondano e me, in primis con l’università. La sto prendendo veramente male, complice anche il fatto di seguire (o meglio, non seguire) le lezioni da casa.',
     ],
-    image: '../src/assets/images/percorso/foto6.jpg',
+    image: '/assets/images/percorso/foto6.jpg',
     cfu: 30
   },
   {
@@ -64,7 +64,7 @@ export const roadmapData = [
       '6 Gennaio 2021',
       'Sto ascoltando "Notte prima degli esami" di Venditti, mi suscita sempre emozioni e nostalgia. Stanno quasi per passare 2 anni dalla mia maturità e ripenso a cosa è successo dalla maturità ad ora. Il tempo è volato. A giorni avrò gli esami e non ho studiato mezza materia, la situazione mi è sfuggita di mano. Spero che questo "periodo" finisca al più presto e mi inizi a focalizzare sulle cose importanti.',
     ],
-    image: '../src/assets/images/percorso/foto11.jpg',
+    image: '/assets/images/percorso/foto11.jpg',
     cfu: 30
   },
   {
@@ -83,7 +83,7 @@ export const roadmapData = [
       '1 Maggio 2021',
       'Devo trovare il mio punto di rottura oltre il quale iniziare ad essere produttivo. Oggi sono particolarmente triste e malinconico. Voglio laurearmi a luglio 2022 anche se in cuor mio so di non riuscirci, ed è ancora più triste riconoscere che è tutto a causa mia e non sto facendo niente per rimediare.',
     ],
-    image: '../src/assets/images/percorso/foto43.jpg',
+    image: '/assets/images/percorso/foto43.jpg',
     cfu: 30
   },
   {
@@ -93,7 +93,7 @@ export const roadmapData = [
       '18 Settembre 2021',
       'È un periodo che sono davvero giù, non riesco ad essere produttivi perché non so in che attività dedicarmi, sento tutta la pressione del mondo schiacciarmi, vorrei piangere a più non posso e trovare la forza di rialzarmi il prima possibile. Voglio allenarmi seriamente per raggiungere il livello di fisico che sogno e voglio impegnarmi nello studio, nel lavoro e nelle relazioni. Ho bisogno di prendere delle decisioni il prima possibile per il mio futuro.',
     ],
-    image: '../src/assets/images/percorso/foto8.jpg',
+    image: '/assets/images/percorso/foto8.jpg',
     cfu: 36
   },
   {
@@ -130,7 +130,7 @@ export const roadmapData = [
       '16 Gennaio 2022',
       'Questi ultimi giorni sono stati strani ma in positivo. Penso di aver deciso di cambiare facoltà dopo aver riflettuto sul fatto che altrimenti non mi laureo più. Dovevi scegliere una facoltà informatica già all’inizio ma purtroppo le circostanze e l’ingenuità hanno preso il sopravvento ormai 3 anni fa. Credo di aver capito che nella vita voglio fare il programmatore per cercare di creare qualcosa di mio, non voglio fare il dipendente nella vita. Spero di riuscire a laurearmi nel 2023, di impegnarmi a tempo pieno nella programmazione, di imparare l’inglese e di essere felice.',
     ],
-    image: '../src/assets/images/percorso/foto16.jpeg',
+    image: '/assets/images/percorso/foto16.jpeg',
     cfu: 36
   },
   {
@@ -140,7 +140,7 @@ export const roadmapData = [
       '27 Febbraio 2022',
       'Il 24 Febbraio ho sostenuto l’esame di economia e ho accettato un 20, nello stesso giorno è scoppiata la guerra in Ucraina. Non avrei mai pensato di assistere ad una possibile terza guerra mondiale, ma neanche ad una pandemia globale. Domani andrò all’università da solo e mi spaventa un po’ essere da solo, spero mi aiuti a crescere.',
     ],
-    image: '../src/assets/images/percorso/foto15.jpeg',
+    image: '/assets/images/percorso/foto15.jpeg',
     cfu: 42
   },
   {
@@ -168,7 +168,7 @@ export const roadmapData = [
       '12 Settembre 2022',
       'Ho preso il mio primo 30 e lode. Il voto più alto della mia carriera universitaria. Il voto più alto esistente all’università. Non so come descriverlo, è una sensazione di incredulità mista ad orgoglio. Ho preso 30 e lode a statistica nella nuova facoltà, grazie soprattutto agli appunti e agli aiuti di Sofia, ma anche grazie alla mia determinazione e voglia di mettermi in gioco. Spero che questo sia solo l’inizio di un percorso. Mercoledì ho l’esame di programmazione e ho solo un giorno per studiare, spero di farcela. Dopo voglio concentrarmi sul lancio di OurUniversity fino a quando non inizieranno le lezioni.',
     ],
-    image: '../src/assets/images/percorso/foto17.jpeg',
+    image: '/assets/images/percorso/foto17.jpeg',
     cfu: 60
   },
   {
@@ -178,7 +178,7 @@ export const roadmapData = [
       '22 Settembre 2022',
       'Oggi ho messo online OurUniversity. Spero che questa data rimanga nel tempo, nel bene e nel male, simbolo di me che ancora una volta ce l’ho fatta a soddisfare il mio ego e raggiungere i miei obiettivi. Adesso spero che il sito vada bene e piaccia a più gente possibile. Ringrazio Sofia per credere in me e supportarmi anche quando magari io stesso ci credo un po’ di meno.',
     ],
-    image: '../src/assets/logo-ouruniversity.png',
+    image: '/assets/logo-ouruniversity.png',
     cfu: 60
   },
   {
@@ -188,7 +188,7 @@ export const roadmapData = [
       '25 Ottobre 2022',
       'Oggi ho scoperto di avere essere al secondo anno. Ciò significa che non posso laurearmi prima di luglio 2024, perdendo di fatto 2 anni. Non sto bene ma non posso farci nulla. Voglio impegnarmi per dare tutti gli esami il prima possibile e laurearmi comunque prima, non so in che modo. Voglio seriamente imparare a programmare in swift per iniziare a lavorare, ma sarei stato molto più felice se fossi stato messo al 3 anno. Spero che tutte queste emozioni e situazioni negativi si trasformino in qualcosa di bello utile per il mio futuro.',
     ],
-    image: '../src/assets/images/percorso/foto22.jpeg',
+    image: '/assets/images/percorso/foto22.jpeg',
     cfu: 60
   },
   {
@@ -198,7 +198,7 @@ export const roadmapData = [
       '3 Dicembre 2022',
       'Sono stanco di tante cose ma il 2023 si preannuncia ancora più difficile sotto tanto aspetti. Vedrò Sofia laurearsi, spero questa estate. Vedrò Sofia andare via. Spero tanto faccia la magistrale fuori perché se lo merita e lo vuole tanto, ma non voglio abbandonarla, dovrò affrontare anche questa. Voglio essere anche io prossimo alla laurea a settembre prossimo per iniziare a cercare qualche lavoro o farmi un’idea sulla magistrale. Non so che piega prenderà il nostro rapporto, spero tanto non finisca mai, per questo spero possiamo trovare delle soluzioni che siano il meglio per entrambi.',
     ],
-    image: '../src/assets/images/percorso/foto28.jpeg',
+    image: '/assets/images/percorso/foto28.jpeg',
     cfu: 60
   },
   {
@@ -208,7 +208,7 @@ export const roadmapData = [
       '29 Gennaio 2023',
       'Primi pensieri del nuovo anno. Sono in sessione, le cose stanno andando discretamente bene, ho superato due esami e ora spero di superare gli altri tre che ho in programma.',
     ],
-    image: '../src/assets/images/percorso/foto20.jpeg',
+    image: '/assets/images/percorso/foto20.jpeg',
     cfu: 81
   },
   {
@@ -218,7 +218,7 @@ export const roadmapData = [
       '27 Luglio 2023',
       'Sofia si è laureata. Sono molto felice per lei, è stata una giornata molto bella. Spero che possa trovare un lavoro che la renda felice e che possa realizzare i suoi sogni. Adesso tocca a me non deluderla.',
     ],
-    image: '../src/assets/images/percorso/foto30.jpeg',
+    image: '/assets/images/percorso/foto30.jpeg',
     cfu: 120
   },
   {
@@ -291,7 +291,7 @@ export const roadmapData = [
       '23 Luglio 2024',
       '💯 / 110',
     ],
-    image: '../src/assets/images/percorso/foto44.jpg',
+    image: '/assets/images/percorso/foto44.jpg',
     cfu: 180
   },
 ];

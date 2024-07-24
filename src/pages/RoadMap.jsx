@@ -17,7 +17,7 @@ const RoadMap = () => {
       renderItem: () => (
         <div className="video-wrapper">
           <video controls>
-            <source src="../../src/assets/images/percorso/video.mov" type="video/mp4" />
+            <source src="..//assets/images/percorso/video.mov" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
