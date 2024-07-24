@@ -6,7 +6,7 @@ const Home = () => {
     <div className={styles.container}>
         <div className={styles.aboutMe}>
             <div className={styles.imageContainer}>
-              <img src="../src/assets/images/gaetano.jpg" alt="foto di Gaetano Bondì" />
+              <img src="/src/assets/images/gaetano.jpg" alt="foto di Gaetano Bondì" />
             </div>
             <p className='description'>
               Ciao, mi chiamo Gaetano Bondì e mi sono appena laureato in Ingegneria dell'Innovazione per le Imprese Digitali all'Università degli Studi di Palermo e questa è la mia storia.
