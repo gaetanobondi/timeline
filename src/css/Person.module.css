@@ -1,0 +1,21 @@
+.person {
+  width: 100%;
+  box-shadow: none;
+  margin: 0;
+}
+
+.person .description {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  text-align: left;
+  padding: 15px;
+}
+
+/* Media Query: 768px */
+@media (min-width: 768px) {
+  .container {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
