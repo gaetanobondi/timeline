@@ -163,7 +163,7 @@ export const peopleData = [
         'route': 'zii-cugi',
         'fullName': 'Zii e cugini: Serena, Antonella, Aurora, Giulio, Francesco, Alessio, Daniel, Leonardo, Fabio',
         'description': [
-            'Ai miei zii e ai miei cugini, vi avrei voluto vivere di più, ma vivendo in regioni diverse e a centinaia di chilometri di distanza non sempre è facile.',
+            'Ai miei zii e ai miei cugini, avrei voluto vivervi di più, ma vivendo in regioni diverse e a centinaia di chilometri di distanza non sempre è facile.',
             'Ogni volta che venite dai nonni anche per noi è festa. Grazie per tutti i consigli che mi avete dato, per essere stati per me un modo per confrontarmi e per farmi sentire a casa, anche a casa vostra.',
             'Grazie per avermi sempre sostenuto in questo mio percorso e spinto a non abbondonarlo mai.',
             'Avete creduto in me anche quando nessuno ci credeva e avete sempre avuto il giusto tatto nel trattare le domande scomode alle cene di famiglia, vi voglio tanto bene.'
