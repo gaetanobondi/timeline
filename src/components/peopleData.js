@@ -4,11 +4,10 @@ export const peopleData = [
         'route': 'fam',
         'fullName': 'Mamma, Papà e Davide',
         'description': [
-            'Siete le persone che mi conoscono di più e io sono una delle poche che vi conosce più a fondo.',
             'Sono eternamente grato per quello che avete fatto, che fate e che farete per me e per Davide ogni giorno. Mi avete sostenuto economicamente, mi avete fatto pesare poco il fatto di non essermi laureato in tempo e mi avete sempre accontentato in tutto quello che sia stato nelle vostre possibilità.',
-            'Non siamo mai stati una famiglia unita, non mostriamo più di tanto affetto, ma ciò non significa che non ci vogliamo bene, a modo nostro.',
-            'Mamma, scusa se troppo spesso sono duro con te, quando dai tutto per noi privandoti di molto, troppo. Sei una persona fantastica, la tua risata conquista tutti e con il tuo modo di essere rendi tutto più leggero, a volte più pesante.',
-            'Papà, il nostro rapporto non è mai decollato, forse perché entrambi pensiamo che la vita sia o tutta bianca o tutta nera, invece dovremmo imparare ad apprezzare le sfumature nel mezzo. Sei una persona testarda, che se si mette in testa una cosa la fa, questa è una delle tue migliori qualità.',
+            'Non siamo mai stati una famiglia unita, non siamo soliti mostrarci tanto affetto, ma ciò non significa che non ci vogliamo bene, a modo nostro.',
+            'Mamma, oggi voglio chiederti scusa, scusa se troppo spesso sono duro con te, quando dai tutto per noi, privandoti di molto, troppo. Oltre a chiederti scusa però, voglio anche ringraziarti. Grazie per rendere tutto più leggero con la tua risata, grazie per essere forte, giorno dopo giorno, grazie per esserci sempre stata.',
+            'Papà, siamo tanto simili quanto diversi, forse per questo ci scontriamo sempre, forse perché entrambi pensiamo che la vita sia o tutta bianca o tutta nera, invece dovremmo imparare ad apprezzare le sfumature nel mezzo. C\'è una cosa che però ho sempre apprezzato di te, il tuo essere testardo, ogni volta che ti metti in testa una cosa la fai. Grazie per avermi insegnato a non mollare mai.',
             'Davide, ho scelto io il tuo nome, ricordo quanto desideravo avere un fratello e la gioia che ho provato quando sei nato. Vorrei che parlassimo e ci confrontassimo più spesso, per evitarti tanti errori che ho già commesso io, primo su tutti l’università. Segui quello che vuoi diventare e non avere paura ad andare contro una strada facile che qualcun altro ti ha presentato.',
             'Se oggi sono la persona che sono devo ringraziare voi, vi voglio bene.'
         ],
@@ -49,7 +48,11 @@ export const peopleData = [
             'Grazie per tutte le parole di conforto che hai avuto in questi due anni e per aver creduto in me ancora prima di me stesso, e di tutti gli altri.',
             'Quando ho iniziato a studiare dopo aver cambiato facoltà, ogni esame sembrava una montagna insuperabile, e invece, come mi hai sempre detto, scalino dopo scalino, siamo arrivati a questo giorno.',
             'Grazie per la tua semplicità e leggerezza, in un periodo dove tutto era pesante.',
-            'Grazie per avermi reso la persona che sono, sei speciale. Ti amo.'
+            'Grazie per avermi apprezzato così come sono.',
+            'Grazie per essere stata la spalla su cui piangere.',
+            'Grazie per avermi reso la persona che sono, sei speciale.',
+            'Spero che i nostri passi non si dividano mai.',
+            'Ti amo.'
         ],
         'images': [
             {
