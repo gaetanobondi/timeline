@@ -111,7 +111,7 @@ export const peopleData = [
             'Andrea, o meglio, coooognatino, come piace chiamarci. Sei un ragazzo davvero sveglio e intelligente, mi hai da subito colpito per essere molto più maturo dell’età che hai.',
             'Ci divertiamo dal primo giorno, abbiamo fatto tornei di ogni tipo, da Fifa a Fortnite, ma il nostro gioco preferito rimane prendere in giro Sofia.',
             'Quando arrivo a casa vostra e Sofia mi dice che sei uscito, io le dico sempre: e quando torna? Dobbiamo fare le crepes.',
-            'Frequenti il liceo scientifico e ogni giorno dici che vuoi fare un lavoro diverso, dal medico, al pilota di aerei, passando per il cameriere.',
+            'Mi hai sempre visto studiare e non hai mai dubitato che riuscissi in questa impresa e per me non c’è stato dono più grande.',
             'Goditi la tua adolescenza, studia e vedrai che andrai lontano, ti voglio bene.'
         ],
         'images': [
