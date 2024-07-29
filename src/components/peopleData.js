@@ -438,4 +438,13 @@ export const peopleData = [
             'Grazie Daniela per avermi sempre trattato bene, con il liquore al cioccolato e i limoncelli, per tutte le volte che mi hai chiamato per avere un aiuto con il computer, vi voglio bene.'
         ]
     },
+    {
+        'id': 19,
+        'route': 'ros-ago-fra',
+        'fullName': 'Rosangela, Agostino e Francesco',
+        'description': [
+            'Tre persone solari sempre sorridenti, la compagnia giusta per ogni occasione, ricordo tanti capodanni insieme, tanti compleanni, se si deve arrostire non può mancare Agostino, in queste occasioni la sua pacatezza lo rende un santo.',
+            'Spesso si dice che siamo felici quando stiamo con qualcuno che ci fa stare bene, ecco, la sintesi perfetta per descrivervi, vi voglio bene'
+        ]
+    },
 ];
